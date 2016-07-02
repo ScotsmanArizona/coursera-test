@@ -67,7 +67,8 @@ h1 {
 	right: 0px;
 	width: 33%;
 	text-align: center;
-	border: 1px solid black;
+	border-bottom: 1px solid black;
+	border-left: 1px solid black;
 	background: #ff0000;
 }
 
@@ -77,7 +78,8 @@ h1 {
 	right: 0px;
 	width: 33%;
 	text-align: center;
-	border: 1px solid black;
+	border-bottom: 1px solid black;
+	border-left: 1px solid black;
 	background: #00ff00;
 }
 
@@ -87,7 +89,8 @@ h1 {
 	right: 0px;
 	width: 33%;
 	text-align: center;
-	border: 1px solid black;
+	border-bottom: 1px solid black;
+	border-left: 1px solid black;
 	background: #00ffff;
 }
 
